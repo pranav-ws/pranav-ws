@@ -30,13 +30,6 @@ Welcome to my GitHub profile! I am at the beginning of my software development j
   </a>
 </p>
 
-## 📈 My GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranav-ws&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-ws&layout=compact&theme=tokyonight&hide_border=true" alt="PYTHON" />
-</p>
-
 ## 📫 Let's Connect!
 
 <p align="left">
