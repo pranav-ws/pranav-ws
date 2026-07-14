@@ -1,37 +1,38 @@
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="70" height="70"/>
-  <h1>Hi there, I'm Pronit Pranav! 👋</h1>
-  <p><b>Aspiring Software Developer | Python Enthusiast</b></p>
-</div>
+# Pronit Pranav
 
----
+Software Developer focused on Python and backend development.
 
-Welcome to my GitHub profile! I am at the beginning of my software development journey, dedicating my time to mastering backend logic and writing clean, efficient code. 
+## About
 
-## 👨‍💻 About Me
+I'm building my skills in backend development and clean, maintainable code. My interests include applying programming to mathematical and analytical problems, and exploring data-driven approaches to modeling behavior and decision-making.
 
-* 🎓 Actively building a strong foundational skill set in **Python** software development.
-* 💡 Applying programmatic logic to mathematical concepts, including scripting calculators for coordinate geometry (such as section formulas, incenters, and excenters).
-* 🧠 Interested in the intersection of data and psychology, particularly exploring frameworks like the Big Five personality model.
-* 🚀 Currently focused on expanding my technical expertise, algorithmic problem-solving, and completing my first few personal projects.
-* 🌱 Ask me about what I am currently learning—explaining technical concepts is my favorite way to reinforce them!
+I'm currently working on personal projects to strengthen my understanding of algorithms, problem-solving, and software design.
 
-## 🛠️ Tech Stack & Tools
+## Skills
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>
-  </a>
-</p>
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Tools:** Git, VS Code
 
-## 📫 Let's Connect!
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-<p align="left">
-<a href="mailto:pronitpranav1@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+## Projects
+
+- **[QuantAI](https://github.com/pranav-ws/QuantAI)** — Python project exploring quantitative/analytical concepts.
+- **[Med-Scanner](https://github.com/pranav-ws/Med-Scanner)** — JavaScript-based application.
+- **[cooksy](https://github.com/pranav-ws/cooksy)** — Python project (MIT License).
+- **[search](https://github.com/pranav-ws/search)** — CSS-based project (MIT License).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
+## Contact
+
+- Email: work.pronitpranav@gmail.com
+- GitHub: [github.com/pranav-ws](https://github.com/pranav-ws)
