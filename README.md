@@ -10,7 +10,7 @@ I'm currently working on personal projects to strengthen my understanding of alg
 
 ## Skills
 
-- **Languages:** Python, JavaScript, HTML, CSS
+- **Languages:** Python, JavaScript, HTML, CSS, Cpp
 - **Tools:** Git, VS Code
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
